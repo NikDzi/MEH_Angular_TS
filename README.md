@@ -1,3 +1,6 @@
+Angular & TS admin control panel, implemented basic API calls and paging.
+Created to get familiar with TypeScript and Angular, REST API calls , JSON and CORS setup for my .net core API 
+
 # MEH user control panel
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
